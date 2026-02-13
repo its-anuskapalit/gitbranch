@@ -1,0 +1,15 @@
+D:\Dotnet\13Feb\dev1\bin\Debug\net10.0\Dev1.exe
+D:\Dotnet\13Feb\dev1\bin\Debug\net10.0\Dev1.deps.json
+D:\Dotnet\13Feb\dev1\bin\Debug\net10.0\Dev1.runtimeconfig.json
+D:\Dotnet\13Feb\dev1\bin\Debug\net10.0\Dev1.dll
+D:\Dotnet\13Feb\dev1\bin\Debug\net10.0\Dev1.pdb
+D:\Dotnet\13Feb\dev1\obj\Debug\net10.0\Dev1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet\13Feb\dev1\obj\Debug\net10.0\Dev1.AssemblyInfoInputs.cache
+D:\Dotnet\13Feb\dev1\obj\Debug\net10.0\Dev1.AssemblyInfo.cs
+D:\Dotnet\13Feb\dev1\obj\Debug\net10.0\Dev1.csproj.CoreCompileInputs.cache
+D:\Dotnet\13Feb\dev1\obj\Debug\net10.0\Dev1.sourcelink.json
+D:\Dotnet\13Feb\dev1\obj\Debug\net10.0\Dev1.dll
+D:\Dotnet\13Feb\dev1\obj\Debug\net10.0\refint\Dev1.dll
+D:\Dotnet\13Feb\dev1\obj\Debug\net10.0\Dev1.pdb
+D:\Dotnet\13Feb\dev1\obj\Debug\net10.0\Dev1.genruntimeconfig.cache
+D:\Dotnet\13Feb\dev1\obj\Debug\net10.0\ref\Dev1.dll
